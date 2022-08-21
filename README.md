@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey👋
 
 <!--
 **VENOM8704/VENOM8704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="center" alt="skull:emoji" width="400" src="https://media.giphy.com/media/lgcUUCXgC8mEo/giphy.gif">
